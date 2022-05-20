@@ -28,7 +28,6 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['preet-boutique-ado.herokuapp.com', 'localhost']
 
-
 # Application definition
 
 INSTALLED_APPS = [
